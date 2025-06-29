@@ -29,7 +29,7 @@ public class Ball : MonoBehaviour
     }
     private void Awake()
     {
-        Debug.Log("awake called");
+        Debug.Log("awake called");//jgjh
     }
     void Start()
     {
